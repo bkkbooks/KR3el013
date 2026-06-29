@@ -1,0 +1,557 @@
+canonical_identifier: bkk:krp/KR3el013/v1
+canonical_location: https://kanripo.org/bkk/KR3el013/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷科補要
+  identifiers:
+    krp: KR3el013
+  tags:
+    kr-categories: KR3el
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el013.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3el013_000.yaml, hash: 'sha256:ff60b28f92f017d63d0b503f63fd4a73ff47edc3eb4cf6df9b76dfc5af9a99ce'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el013_000.markers.yaml, hash: 'sha256:f6affded79f966a89c66c9b4cf4573a0ed28344c5931c3f833ef754d2c14789d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 455
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d3.h1s1
+    span:
+    - body
+    - 455
+    - 1430
+  label: 靈樞經骨度尺寸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d3d2
+    span:
+    - body
+    - 462
+    - 557
+  label: 頭部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d3d3
+    span:
+    - body
+    - 557
+    - 799
+  label: 胸腹部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d3d4
+    span:
+    - body
+    - 799
+    - 1031
+  label: 背部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d3d5
+    span:
+    - body
+    - 1031
+    - 1206
+  label: 側部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d3d6
+    span:
+    - body
+    - 1206
+    - 1430
+  label: 四肢部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4.h1s1
+    span:
+    - body
+    - 1430
+    - 4399
+  label: 器具總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d4
+    span:
+    - body
+    - 1546
+    - 1562
+  label: 攀索
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d5
+    span:
+    - body
+    - 1562
+    - 1595
+  label: 疊磚
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d6
+    span:
+    - body
+    - 1595
+    - 1634
+  label: 腰柱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d7
+    span:
+    - body
+    - 1634
+    - 1732
+  label: 用法釋義
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d8
+    span:
+    - body
+    - 1732
+    - 1798
+  label: 木板
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d9
+    span:
+    - body
+    - 1798
+    - 1880
+  label: 杉籬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d10
+    span:
+    - body
+    - 1880
+    - 1925
+  label: 抱膝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d11
+    span:
+    - body
+    - 1925
+    - 4213
+  label: 周身名位骨度註釋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d4d12
+    span:
+    - body
+    - 4213
+    - 4399
+  label: 脈訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d5.h1s1
+    span:
+    - body
+    - 4399
+    - 5222
+  label: 第一則金瘡論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d6.h1s1
+    span:
+    - body
+    - 5222
+    - 5444
+  label: 第二則治傷法論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d7.h1s1
+    span:
+    - body
+    - 5444
+    - 5902
+  label: 第三則跌打損傷內治證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d8.h1s1
+    span:
+    - body
+    - 5902
+    - 6491
+  label: 第四則至險之證不治論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d9.h1s1
+    span:
+    - body
+    - 6491
+    - 6746
+  label: 第五則從高墜下傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d10.h1s1
+    span:
+    - body
+    - 6746
+    - 7213
+  label: 第六則顛頂骨傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d11.h1s1
+    span:
+    - body
+    - 7213
+    - 7536
+  label: 第七則囟門骨傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d12.h1s1
+    span:
+    - body
+    - 7536
+    - 7750
+  label: 第八則鼻梁骨斷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d13.h1s1
+    span:
+    - body
+    - 7750
+    - 8017
+  label: 第九則唇口玉堂傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d14.h1s1
+    span:
+    - body
+    - 8017
+    - 8267
+  label: 第十則傷耳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d15.h1s1
+    span:
+    - body
+    - 8267
+    - 8703
+  label: 第十一則咽喉傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d16.h1s1
+    span:
+    - body
+    - 8703
+    - 9068
+  label: 第十二則腹傷腸出
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d17.h1s1
+    span:
+    - body
+    - 9068
+    - 9361
+  label: 第十三則手法論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d18.h1s1
+    span:
+    - body
+    - 9361
+    - 9796
+  label: 第十四則鎖子骨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d19.h1s1
+    span:
+    - body
+    - 9796
+    - 10254
+  label: 第十五則背脊骨傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d20.h1s1
+    span:
+    - body
+    - 10254
+    - 10628
+  label: 第十六則接骨論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d21.h1s1
+    span:
+    - body
+    - 10628
+    - 10803
+  label: 第十七則脫下頦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d22.h1s1
+    span:
+    - body
+    - 10803
+    - 10969
+  label: 第十八則髃骨骱失
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d23.h1s1
+    span:
+    - body
+    - 10969
+    - 11102
+  label: 第十九則曲䐐骱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d24.h1s1
+    span:
+    - body
+    - 11102
+    - 11291
+  label: 第二十則手腕骱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d25.h1s1
+    span:
+    - body
+    - 11291
+    - 11463
+  label: 第二十一則臀骱骨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d26.h1s1
+    span:
+    - body
+    - 11463
+    - 11772
+  label: 第二十二則大楗骨膝蓋骨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d27.h1s1
+    span:
+    - body
+    - 11772
+    - 12100
+  label: 第二十三則胻骨腳踝跗骨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d28.h1s1
+    span:
+    - body
+    - 12100
+    - 12260
+  label: 第二十四則受傷著寒及懷孕而傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d29.h1s1
+    span:
+    - body
+    - 12260
+    - 12427
+  label: 第二十五則受傷感痧論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d30.h1s1
+    span:
+    - body
+    - 12427
+    - 12704
+  label: 第二十六則損傷出血吐血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d31.h1s1
+    span:
+    - body
+    - 12704
+    - 12949
+  label: 第二十七則胸腹脅肋痛悶
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d32.h1s1
+    span:
+    - body
+    - 12949
+    - 13257
+  label: 第二十八則腹痛腰痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d33.h1s1
+    span:
+    - body
+    - 13257
+    - 13268
+  label: 第二十九則杖瘡夾棍傷佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d34.h1s1
+    span:
+    - body
+    - 13268
+    - 13276
+  label: 第三十則藥箭傷佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d35.h1s1
+    span:
+    - body
+    - 13276
+    - 13285
+  label: 第三十一則諸咬傷佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d36.h1s1
+    span:
+    - body
+    - 13285
+    - 13294
+  label: 第三十二則湯火傷佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d37.h1s1
+    span:
+    - body
+    - 13294
+    - 13304
+  label: 第三十三則救自縊法佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d38.h1s1
+    span:
+    - body
+    - 13304
+    - 13313
+  label: 第三十四則救溺水佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d39.h1s1
+    span:
+    - body
+    - 13313
+    - 13825
+  label: 第三十五則運熏灸倒四法及灸臍化痞法附
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el013_jc_000-d40.h1s1
+    span:
+    - body
+    - 13825
+    - 14257
+  label: 第三十六則應刺諸穴
+  type: section
+  level: 1
+hash: sha256:afc025bd523be915c4bf17036c4736c33226501886121fa1fe3505861fbad487
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
