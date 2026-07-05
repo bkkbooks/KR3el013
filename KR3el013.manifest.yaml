@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el013_000.yaml, hash: 'sha256:ff60b28f92f017d63d0b503f63fd4a73ff47edc3eb4cf6df9b76dfc5af9a99ce'}
+  - {seq: 0, filename: KR3el013_000.yaml, hash: 'sha256:205aed0e4998aeaab418ac86affa87f603ff3c3e3c8efbce7ee6a6fc6061b87b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el013_000.markers.yaml, hash: 'sha256:f6affded79f966a89c66c9b4cf4573a0ed28344c5931c3f833ef754d2c14789d'}
+  - {seq: 0, role: markers, filename: assets/KR3el013_000.markers.yaml, hash: 'sha256:e13ced14390a5ae5408e012ca0d6e9bd734169ed1e6b729e3e506d1219174049'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,7 +551,4 @@ table_of_contents:
   label: 第三十六則應刺諸穴
   type: section
   level: 1
-hash: sha256:afc025bd523be915c4bf17036c4736c33226501886121fa1fe3505861fbad487
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c927d49f9e6a9c1857fa45acc5e39a537285648cc5cf2a52142d4058f3aad28a
