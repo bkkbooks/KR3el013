@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3el013/v1
 canonical_location: https://kanripo.org/bkk/KR3el013/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷科補要
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el013_000.yaml, hash: 'sha256:205aed0e4998aeaab418ac86affa87f603ff3c3e3c8efbce7ee6a6fc6061b87b'}
+  - {seq: 0, filename: KR3el013_000.yaml, hash: 'sha256:cddcd155bfa661f292a016d75306a339a4ebef6f20a1638dbcc0e0704b96909a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el013_000.markers.yaml, hash: 'sha256:e13ced14390a5ae5408e012ca0d6e9bd734169ed1e6b729e3e506d1219174049'}
+  - {seq: 0, role: markers, filename: assets/KR3el013_000.markers.yaml, hash: 'sha256:b39951ebceb53ab4ec796d8f9d2375a5f9c5ce19d7d2bc71c93063ec43088a9b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,4 +551,7 @@ table_of_contents:
   label: 第三十六則應刺諸穴
   type: section
   level: 1
-hash: sha256:c927d49f9e6a9c1857fa45acc5e39a537285648cc5cf2a52142d4058f3aad28a
+hash: sha256:eba0d5b8c2ec4df85994177cd88dd9d680e9b60194cc194d9e68c115fb4c650c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
