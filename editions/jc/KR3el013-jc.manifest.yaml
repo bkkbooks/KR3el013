@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el013_000-jc.yaml, hash: 'sha256:205aed0e4998aeaab418ac86affa87f603ff3c3e3c8efbce7ee6a6fc6061b87b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el013_000-jc.markers.yaml, hash: 'sha256:ef4751ab7d132c9a649a1bd081cf6d0b03a1e66bbcd84df2a9f15e43eefdee61'}
+  - {seq: 0, role: markers, filename: assets/KR3el013_000-jc.markers.yaml, hash: 'sha256:710bf5c5362683f839540164bfa94ae1f4033ee36894077cc0ddb72cf077cd0e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,4 +551,4 @@ table_of_contents:
   label: 第三十六則應刺諸穴
   type: section
   level: 1
-hash: sha256:96cb4b28267a8fe7fda7e748e22f1886eeaabd9db3a45b6dfc1c7cf63c4ee51e
+hash: sha256:278022dd19610216f6cf7bbd7a80858cd8123185c09164a19d5a3e24611613df
